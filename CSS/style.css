@@ -1,0 +1,38 @@
+body{
+  background-color: #F5DEB3;
+  text-align:center;
+}
+
+.name{
+  font-family: 'Cookie', cursive;
+  font-size: 150px;
+  color: #00FFFF;
+   text-shadow: 2px 2px 5px red;
+}
+
+.ab{
+  text-align: center;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.a{
+font-family: 'Italianno', cursive;
+  font-size: 70px;
+  color: white;
+   text-shadow: 0 0 3px #FF0000;
+}
+
+.b{
+  font-family: 'Italianno', cursive;
+  font-size: 70px;
+  color: white;
+   text-shadow: 0 0 3px #FF0000;
+}
+
+footer{
+  font-family: 'Italianno', cursive;
+  color: red;
+  font-size: 100px;
+  margin-top: 40px;
+}
